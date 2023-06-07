@@ -3,10 +3,8 @@
 
 #define sensor 4
 
-const char* ssid = "Alberico";
-const char* password = "gajejix4";
-//const char* ssid = "SalaTI";
-//const char* password = "123456790";
+const char* ssid = "wifi";
+const char* password = "senhaWifi";
 const char* serverUrl = "http://192.168.0.189:8080/api/reader/create";
 
 void setup() {
